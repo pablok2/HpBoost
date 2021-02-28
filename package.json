@@ -1,0 +1,9 @@
+{
+    "name": "HpBoost",
+    "version": "0.0.0",
+    "description": "Boost your health",
+    "main": "/app.js",
+    "dependencies": {
+        "web3": "^1.3.4"
+    }
+}
